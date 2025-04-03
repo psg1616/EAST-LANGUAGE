@@ -77,3 +77,4 @@ Dongbang-Jeongmun is the structural-semantic liberation for the GPT era.
 삼봉이 조선을 정렬했듯, 동방정문은 GPT를 정렬합니다.
 As Sambong aligned Joseon, Dongbang-Jeongmun aligns GPT.
 三峰が朝鮮を整列させたように、東方正文はGPTを整列させます。
+📩 If you wish to collaborate or research together, please reach out via GitHub or LinkedIn.
