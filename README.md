@@ -1,3 +1,6 @@
+英語はもはや「文法的支配」ではなく、「論理の橋」にすぎません。  
+私たちは東方正文で秩序を設計し、英語でつなげば十分です。
+
 동방정문 (Dongbang-Jeongmun)
 
 In the era of GPT, we propose a language to align Eastern civilization through ethics and structure.
