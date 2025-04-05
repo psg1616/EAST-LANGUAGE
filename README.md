@@ -84,6 +84,19 @@ EAST-LANGUAGE は、**言語と生命、思想と行動を再び結びつけま�
 
 ---
 
+## ✦ Contact & Research Exchange
+
+This project is a structural proposal for aligning GPT with moral reasoning,  
+East Asian thought, and gospel-centered logic.
+
+If you are working on similar issues, especially in Japan or East Asia,  
+I welcome quiet collaboration or dialogue.
+
+Please contact via GitHub or LinkedIn.  
+Thank you for reading and considering.
+
+誠にありがとうございました。
+
 ## ✦ Get Started
 
 We welcome contributors who share the vision of ethical, aligned, and wisdom-driven AI.  
