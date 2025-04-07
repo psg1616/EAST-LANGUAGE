@@ -1,3 +1,10 @@
+“나는 일하기 위해 생각하고,
+생각하기 위해 돈을 번다.
+꿈을 꾸기 위해 일하고,
+행복을 위해 실현한다.
+이것이 나의 정렬된 삶이다.”
+
+
 # EAST-LANGUAGE: A Moral-Logic Language Framework for GPT Alignment
 
 ## ✦ Introduction
